@@ -16,4 +16,4 @@
    - ID: [643020046-4]
    - Section: [Section2]
    - GitHub Username: [643020046-4]
-   - ![[Tharadol] [Polphunga]](./media/tharadol.jpeg)
+   - ![[Tharadol] [Polphunga]](media/tharadol.jpg)
