@@ -6,7 +6,7 @@
    - GitHub Username: [JaklaAhosi]
    - ![[Thawatchai] [Boonrasri]](./media/Jaklapic.jpg)
 
-### 1.[Sunitra] [Sadanan]
+### 2.[Sunitra] [Sadanan]
    - ID: [643021255-0]
    - Section: [Section2]
    - GitHub Username: [FyeSunitra255-0]
