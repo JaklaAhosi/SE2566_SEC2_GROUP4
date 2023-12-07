@@ -12,3 +12,8 @@
    - GitHub Username: [FyeSunitra255-0]
    - ![[Sunitra] [Sadanan]](./media/sunitra.jpeg)
 
+### 3.[Tharadol] [Polphunga]
+   - ID: [643020046-4]
+   - Section: [Section2]
+   - GitHub Username: [643020046-4]
+   - ![[Sunitra] [Sadanan]](./media/tharadol.jpeg)
