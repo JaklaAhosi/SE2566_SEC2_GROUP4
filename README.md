@@ -10,5 +10,5 @@
    - ID: [643021255-0]
    - Section: [Section2]
    - GitHub Username: [FyeSunitra255-0]
-   - ![[Sunitra] [Sadanan]](./media/Jaklapic.jpg)
+   - ![[Sunitra] [Sadanan]](./media/sunitra.jpeg)
 
