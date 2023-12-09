@@ -24,7 +24,7 @@
    - GitHub Username: [thomas3p]
    - ![[Pathawikorn] [Seewai]](media/Pathawikorn.jpg)
 
-### 4.[Praweena] [Wongsa]
+### 5.[Praweena] [Wongsa]
    - ID: [643020049-8]
    - Section: [Section 2]
    - GitHub Username: [praweena-W]
