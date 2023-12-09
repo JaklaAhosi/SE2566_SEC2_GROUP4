@@ -29,3 +29,9 @@
    - Section: [Section 2]
    - GitHub Username: [praweena-W]
    - ![[Praweena] [Wongsa]](media/Praweena.jpg)
+
+### 6.[Pawaret] [Ubonkhrut]
+   - ID: [643020484-0]
+   - Section: [Section 2]
+   - GitHub Username: [ryxta]
+   - ![[Pawaret] [Ubonkhrut]](media/Pawaret.jpg)
